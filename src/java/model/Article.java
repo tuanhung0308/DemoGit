@@ -17,6 +17,7 @@ public class Article {
     private String title;
     private Date published_date;
     private boolean open_access;
+    
 
     public Article() {
     }
